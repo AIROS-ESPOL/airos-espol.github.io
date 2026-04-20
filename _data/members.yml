@@ -259,25 +259,28 @@ members:
 # PARTE 4: ALUMNI (Ex-alumnos)
 # ==============================
 alumni:
-  - name: "Ing. María Pérez"
-    position: "Data Scientist at Bank of America"
-    img: "maria-perez.jpg"
-    linkedin: "https://linkedin.com/in/maria"
-
-  - name: "Ph.D. Juan López"
-    position: "Professor at ESPOL"
-    img: "juan-lopez.jpg"
-    linkedin: "#"
-    
-  - name: "Msc. Carlos Ruiz"
-    position: "Robotics Engineer at Tesla"
-    img: "carlos-ruiz.jpg"
-    github: "#"
-
-  - name: "Msc. Carlos Rivera"
-    position: "Robotics Engineer at Tesla"
-    img: "carlos-rivera.jpg"
-    github: "#"
+  
+# Ejemplos:
+#  - name: "Ing. María Pérez"
+#    position: "Data Scientist at Bank of America"
+#    img: "maria-perez.jpg"
+#    linkedin: "https://linkedin.com/in/maria"
+#
+#  - name: "Ph.D. Juan López"
+#    position: "Professor at ESPOL"
+#    img: "juan-lopez.jpg"
+#    linkedin: "#"
+#    
+#  - name: "Msc. Carlos Ruiz"
+#    position: "Robotics Engineer at Tesla"
+#    img: "carlos-ruiz.jpg"
+#    github: "#"
+#
+#  - name: "Msc. Carlos Rivera"
+#    position: "Robotics Engineer at Tesla"
+#    img: "carlos-rivera.jpg"
+#    github: "#"
+#------------------------------
     
   - name: "Ing. Ana Paula Morales Apolo"
     img: "miembro2.jpg"
