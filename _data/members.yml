@@ -183,11 +183,6 @@ members:
    # linkedin: "#"
     #portfolio: "#"
 
-  - name: "Melissa Nicole Cobos Condo"
-    img: "Melissa-Cobos.jpg"
-    #github: "#"
-    linkedin: "https://www.linkedin.com/in/melissa-cobos-094627269/"
-    #portfolio: "#"
 
 #no info no foto
 #  - name: "Nahin Alexis Martinez Salazar"
@@ -281,59 +276,78 @@ alumni:
 #    img: "carlos-rivera.jpg"
 #    github: "#"
 #------------------------------
-    
-  - name: "Ing. Ana Paula Morales Apolo"
-    img: "miembro2.jpg"
-    linkedin: "#"
+  - name: "Melissa Nicole Cobos Condo"
+    img: "Melissa-Cobos.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/melissa-cobos-094627269/"
+    #portfolio: "#"
+
+#no linkedin
+  #- name: "Ing. Ana Paula Morales Apolo"
+   # img: "miembro2.jpg"
+    #linkedin: "#"
 
   - name: "Ing. Angel Josue Espín Lumbano"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "AngelEsping.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/angelespin/"
 
-  - name: "Ing. Angello Bernie Andrade Velasco"
-    img: "miembro2.jpg"
-    linkedin: "#"
-
+#No linkedin
+#  - name: "Ing. Angello Bernie Andrade Velasco"
+ #   img: "miembro2.jpg"
+  #  linkedin: "#"
+##
   - name: "Ing. Anthony Javier Carrillo Vega"
-    img: "miembro2.jpg"
-    linkedin: "#"
-
-  - name: "Ing. Carlos Enrique Jara Blacio"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "AnthonyCarrillo.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/anthony-javier-carrillo-vega-a24b6920b/"
+##no linkedin
+ # - name: "Ing. Carlos Enrique Jara Blacio"
+ #   img: "#"
+  #  linkedin: "#"
 
   - name: "Ing. Dana Paola Soriano Santana"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "DanaSoriano.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/dana-soriano-santana/"
 
   - name: "Ing. Daniel Alberto Moran García"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "DanielMoran.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/daniel-moran-garcia-52b698159/"
 
   - name: "Ing. David Alejandro Torres Torres"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "DavidTorres.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/davatorr/"
 
   - name: "Ing. Giovanny William Mite Rodríguez"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "GiovannyMite.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/giovanny-mite-1ba647215/"
 
   - name: "Ing. José Luis Reyes Ramos"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "JoseReyes.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/josé-reyes-b70b261a9/"
 
   - name: "Ing. José Miguel Santos Terán"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "JoseSantos.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/jmsantost/"
 
   - name: "Ing. Maykoll Steven Vanegas Silva"
     img: "miembro2.jpg"
-    linkedin: "#"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/maykoll-steven-vanegas-silva-baa225219/"
 
-  - name: "Ing. Walter Francisco Tamayo Benites"
-    img: "miembro2.jpg"
-    linkedin: "#"
+##no linkedin
+ # - name: "Ing. Walter Francisco Tamayo Benites"
+ #   img: "miembro2.jpg"
+ #   position: "Mechatronics Engineer"
+ #   linkedin: "#"
 
   - name: "Ing. Winter Israel Delgado González"
-    img: "miembro2.jpg"
-    linkedin: "#"
+    img: "WinterIsrael.jpg"
+    position: "Mechatronics Engineer"
+    linkedin: "https://www.linkedin.com/in/widegonz/"
